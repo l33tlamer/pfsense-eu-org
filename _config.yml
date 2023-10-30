@@ -1,0 +1,16 @@
+title: "pfsense.eu.org"
+#description: "just a static landing page"
+
+baseurl: /pfsense-eu-org
+url: https://l33tlamer.github.io
+
+permalink: date
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+exclude:  
+- .gitignore
+- _config.yml
+- CNAME
